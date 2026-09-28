@@ -1,0 +1,10 @@
+# 秘密情報・環境固有のファイル
+.env
+certs/
+*.pem
+*-key.pem
+*metadata*.xml
+*.xml
+
+# macOS
+.DS_Store
