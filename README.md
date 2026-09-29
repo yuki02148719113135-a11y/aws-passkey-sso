@@ -4,6 +4,8 @@ Keycloak を外部 IdP として AWS IAM Identity Center と SAML 連携し、**
 
 ## 構成
 
+![パスキーでAWSにサインインする様子](docs/images/signin.gif)
+
 ```mermaid
 sequenceDiagram
     participant U as ブラウザ (Safari)
