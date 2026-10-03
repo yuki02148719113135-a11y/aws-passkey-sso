@@ -2,8 +2,7 @@
 
 Keycloak を外部 IdP として AWS IAM Identity Center と SAML 連携し、**パスワードなし・パスキー（Touch ID）だけで AWS アクセスポータルにサインインする**ための個人検証環境です。
 
-<a href="https://www.credly.com/badges/6cbf6a2b-535e-42f4-a630-138ec7abec00/public_url"><img src="https://img.shields.io/badge/AWS%20Microcredential-Securing%20Agent%20Identities%20Demonstrated-FF9900" alt="AWS Securing Agent Identities Demonstrated"></a>
-
+<a href="https://www.credly.com/badges/6cbf6a2b-535e-42f4-a630-138ec7abec00/public_url"><img src="docs/images/aws-securing-agent-identities.png" alt="AWS Securing Agent Identities Demonstrated" width="120"></a>
 ID連携まわりの関連分野として、AWS マイクロクレデンシャル「AWS Securing Agent Identities Demonstrated」（実技試験）に合格しています。
 
 ## 構成
